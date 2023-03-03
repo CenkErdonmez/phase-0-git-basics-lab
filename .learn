@@ -1,4 +1,4 @@
-tags:
+git echo "# test" >> README.mdtags:
   - lab
   - git
   - github
